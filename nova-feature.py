@@ -1,1 +1,1 @@
-print("Nova feature de Compra e Venda de Criptomoedas!")
+print("Nova feature de Compra e Venda de Criptomoedas")
